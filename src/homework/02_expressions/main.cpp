@@ -16,6 +16,7 @@ int main()
 	double tip_amount;
 	double tax_amount;
 	double total;
+
 	
 	cout << "How much was the meal?: ";
 	cin >> meal_amount;
